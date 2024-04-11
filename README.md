@@ -1,9 +1,9 @@
 # BOT PROPAGANDA - VOLUME 3
 🛑ESSE É UM BOT DO TELEGRAM QUE ENVIA UM ÁNUNCIO NOS HORÁRIOS PROGRAMADOS!
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_02.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este bot é um bot de anúncios automatizado para grupos do Telegram. Ele é projetado para enviar anúncios nos horários especificados pelo dono no arquivo "CONFIG.json".
