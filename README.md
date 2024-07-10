@@ -1,4 +1,4 @@
-# BOT PROPAGANDA - VOLUME 3
+# BOT PROPAGANDA 03
 🛑ESSE É UM BOT DO TELEGRAM QUE ENVIA UM ÁNUNCIO NOS HORÁRIOS PROGRAMADOS!
 
 <img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
@@ -15,8 +15,9 @@ O arquivo "CONFIG.json" contém as configurações do bot, incluindo se o anúnc
 ## PROCEDIMENTO DE COMPRA:
 - Para efetuar a compra, por favor, entre em contato comigo por mensagem privada, informando:
     ```bash
-    Gostaria de adquirir o bot: https://github.com/VILHALVA/BOT-PROPAGANDA-VOLUME-3
+    Gostaria de adquirir o bot: https://github.com/VILHALVA/BOT-PROPAGANDA-03
     ```
+    
 - Após a confirmação do pagamento e o envio do comprovante, você receberá um arquivo zip contendo o código-fonte do bot, acompanhado de um manual detalhado (`MANUAL.md`), que oferece instruções abrangentes sobre a configuração do ambiente, sugestões de cursos e documentação recomendada, bem como o arquivo `HOSPEDAGEM.md`, contendo orientações para hospedar o seu bot.
 
 - [🤑CLIQUE AQUI PARA ENTRAR EM CONTATO](https://t.me/VILHALVA100)
